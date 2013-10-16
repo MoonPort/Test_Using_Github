@@ -3,4 +3,6 @@ Test_Using_Github
 
 First time user
 
-TEST READ ME
+Want to know more about GitHub.
+
+Ex. Tip or how to use it perfectly.
