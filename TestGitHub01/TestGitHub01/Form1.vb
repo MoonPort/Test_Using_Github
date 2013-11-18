@@ -2,6 +2,6 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox1.Text = "Hello GitHub"
-        MsgBox("Arai Wa Neae!!!")
+        MsgBox("Change My Life")
     End Sub
 End Class
